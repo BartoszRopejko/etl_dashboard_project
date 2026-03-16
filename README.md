@@ -32,3 +32,5 @@ REVENUE TREND IN YEARS
 MOVIE CARDS
 <img width="1062" height="1158" alt="obraz" src="https://github.com/user-attachments/assets/a41ba721-3f7f-4889-816d-6ef9880cab56" />
 
+# ER Diagram
+<img width="972" height="243" alt="ER Diagram" src="https://github.com/user-attachments/assets/f2fd65d1-f02b-4902-8a31-e0ab372bb03c" />
