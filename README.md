@@ -3,6 +3,7 @@ Instructions
 # 0. Prerequisites
 - Snowflake account
 - OMDb API key
+- Base .csv file
 
 # 1. Clone repo
 git clone https://github.com/BartoszRopejko/etl_dashboard_project.git
