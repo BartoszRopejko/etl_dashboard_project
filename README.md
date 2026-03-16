@@ -6,7 +6,6 @@ Instructions
 
 # 1. Clone repo
 git clone https://github.com/BartoszRopejko/etl_dashboard_project.git
-cd etl_dashboard_project
 
 # 2. Install dependencies
 pip install -r requirements.txt
